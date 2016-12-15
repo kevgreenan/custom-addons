@@ -2,7 +2,7 @@
 
 | Function            | Description                                                                                       |
 | ------------------- |--------------------------------------------------------------------------------------------------:|
-| Stack(&ltint&gt)        | Declares an instance of the stack with size <int>                                                 |
+| Stack(&lt;int&gt;)        | Declares an instance of the stack with size <int>                                                 |
 | Clear()             | Clears the stack by reseting the index                                                            |
 | Contains(<object>)  | Returns True if stack contains <object>, otherwise False                                          |
 | Count()             | Returns the number of items on the stack; NOT the size                                            |
