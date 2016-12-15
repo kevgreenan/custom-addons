@@ -1,5 +1,3 @@
-##LIST OF FUNCTIONS:
-
 | Function            | Description                                                                                       |
 | ------------------- |--------------------------------------------------------------------------------------------------:|
 | Stack(&lt;int&gt;)        | Declares an instance of the stack with size &lt;int&gt;                                                 |
